@@ -6,4 +6,5 @@ flask ile localhost:4444/staj portu üzerinden hello world yazısını ekrana ya
 İNSTALL-KURULUM
 
 -docker build . -t flaskhelloworld
+
 -docker run -p 4444:4444 flaskhelloworld
